@@ -10,7 +10,8 @@ import useSWR from 'swr';
 
 import { message } from '@/components/AntdStaticMethods';
 import { LOADING_FLAT } from '@/const/message';
-import { mutate, useClientDataSWRWithSync } from '@/libs/swr';
+import { mutate } from '@/libs/swr';
+import { useClientDataSWRWithSync } from '@/libs/swr/useClientDataSWRWithSync';
 import { chatService } from '@/services/chat';
 import { messageService } from '@/services/message';
 import { topicService } from '@/services/topic';

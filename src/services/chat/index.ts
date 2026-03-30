@@ -19,7 +19,7 @@ import { ModelProvider } from 'model-bank';
 
 import { DEFAULT_AGENT_CONFIG } from '@/const/settings';
 import { getSearchConfig } from '@/helpers/getSearchConfig';
-import { getAgentStoreState } from '@/store/agent';
+import { getAgentStoreState } from '@/store/agent/store';
 import {
   agentByIdSelectors,
   agentChatConfigSelectors,

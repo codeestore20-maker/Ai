@@ -24,7 +24,7 @@ import { type ResolvedAgentConfig } from '@/services/chat/mecha';
 import { resolveAgentConfig } from '@/services/chat/mecha';
 import { localFileService } from '@/services/electron/localFileService';
 import { messageService } from '@/services/message';
-import { getAgentStoreState } from '@/store/agent';
+import { getAgentStoreState } from '@/store/agent/store';
 import { agentSelectors } from '@/store/agent/selectors';
 import { createAgentExecutors } from '@/store/chat/agents/createAgentExecutors';
 import { type ChatStore, useChatStore } from '@/store/chat/store';
