@@ -52,7 +52,7 @@ bun.lockb
 
 # Build outputs
 dist/
-public/spa/
+# public/spa/ is built by GitHub Actions and committed to repo
 es/
 lib/
 .next/
@@ -134,4 +134,4 @@ i18n-unused-keys-report.json
 
 pnpm-lock.yaml
 .turbo
-spaHtmlTemplates.ts
+# spaHtmlTemplates.ts
