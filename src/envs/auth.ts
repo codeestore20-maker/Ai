@@ -109,7 +109,7 @@ export const getAuthConfig = () => {
     clientPrefix: 'NEXT_PUBLIC_',
     client: {},
     server: {
-      AUTH_SECRET: z.string().optional(),
+      AUTH_SECRET: z.string(),
       AUTH_SSO_PROVIDERS: z.string().optional().default(''),
       AUTH_TRUSTED_ORIGINS: z.string().optional(),
       AUTH_EMAIL_VERIFICATION: z.boolean().optional().default(false),
