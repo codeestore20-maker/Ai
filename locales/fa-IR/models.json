@@ -1324,5 +1324,7 @@
   "zai/glm-4.5-air.description": "GLM-4.5 و GLM-4.5-Air جدیدترین مدل‌های پرچم‌دار ما برای برنامه‌های عامل هستند که هر دو از معماری MoE استفاده می‌کنند. GLM-4.5 دارای ۳۵۵ میلیارد پارامتر کل و ۳۲ میلیارد فعال در هر عبور است؛ GLM-4.5-Air نسخه سبک‌تر با ۱۰۶ میلیارد کل و ۱۲ میلیارد فعال است.",
   "zai/glm-4.5.description": "سری GLM-4.5 برای عامل‌ها طراحی شده است. مدل پرچم‌دار GLM-4.5 استدلال، کدنویسی و مهارت‌های عامل را با ۳۵۵ میلیارد پارامتر کل (۳۲ میلیارد فعال) ترکیب می‌کند و دو حالت عملیاتی به‌عنوان یک سیستم استدلال ترکیبی ارائه می‌دهد.",
   "zai/glm-4.5v.description": "GLM-4.5V بر پایه GLM-4.5-Air ساخته شده، تکنیک‌های اثبات‌شده GLM-4.1V-Thinking را به ارث برده و با معماری MoE قدرتمند ۱۰۶ میلیارد پارامتری مقیاس یافته است.",
-  "zenmux/auto.description": "مسیریابی خودکار ZenMux بهترین مدل از نظر ارزش و عملکرد را بر اساس درخواست شما از میان گزینه‌های پشتیبانی‌شده انتخاب می‌کند."
+  "zenmux/auto.description": "مسیریابی خودکار ZenMux بهترین مدل از نظر ارزش و عملکرد را بر اساس درخواست شما از میان گزینه‌های پشتیبانی‌شده انتخاب می‌کند.",
+  "minimax/minimax-m2.7.description": "MiniMax M2.7 is a next-generation flagship text model for agent-centric workflows with strong coding, office, and long-context reasoning. Available via WaveSpeed AI.",
+  "minimax/minimax-m2.5.description": "MiniMax M2.5 offers top-tier performance and cost-effectiveness at approximately 60 tokens per second. Available via WaveSpeed AI."
 }

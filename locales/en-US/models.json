@@ -1324,5 +1324,7 @@
   "zai/glm-4.5-air.description": "GLM-4.5 and GLM-4.5-Air are our latest flagships for agent applications, both using MoE. GLM-4.5 has 355B total and 32B active per forward pass; GLM-4.5-Air is slimmer with 106B total and 12B active.",
   "zai/glm-4.5.description": "The GLM-4.5 series is designed for agents. The flagship GLM-4.5 combines reasoning, coding, and agent skills with 355B total params (32B active) and offers dual operation modes as a hybrid reasoning system.",
   "zai/glm-4.5v.description": "GLM-4.5V builds on GLM-4.5-Air, inheriting proven GLM-4.1V-Thinking techniques and scaling with a strong 106B-parameter MoE architecture.",
-  "zenmux/auto.description": "ZenMux auto-routing selects the best-value, best-performing model from supported options based on your request."
+  "zenmux/auto.description": "ZenMux auto-routing selects the best-value, best-performing model from supported options based on your request.",
+  "minimax/minimax-m2.7.description": "MiniMax M2.7 is a next-generation flagship text model for agent-centric workflows with strong coding, office, and long-context reasoning. Available via WaveSpeed AI.",
+  "minimax/minimax-m2.5.description": "MiniMax M2.5 offers top-tier performance and cost-effectiveness at approximately 60 tokens per second. Available via WaveSpeed AI."
 }

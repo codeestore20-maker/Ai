@@ -1324,5 +1324,7 @@
   "zai/glm-4.5-air.description": "GLM-4.5 وGLM-4.5-Air هما أحدث النماذج الرائدة لدينا لتطبيقات الوكلاء، وكلاهما يستخدم بنية MoE. يحتوي GLM-4.5 على 355 مليار إجمالي و32 مليار نشط لكل تمرير؛ بينما GLM-4.5-Air أنحف بإجمالي 106 مليار و12 مليار نشط.",
   "zai/glm-4.5.description": "سلسلة GLM-4.5 مصممة للوكلاء. النموذج الرائد GLM-4.5 يجمع بين الاستدلال، والبرمجة، ومهارات الوكلاء مع 355 مليار معلمة إجمالية (32 مليار نشطة) ويقدّم أوضاع تشغيل مزدوجة كنظام استدلال هجين.",
   "zai/glm-4.5v.description": "GLM-4.5V مبني على GLM-4.5-Air، ويَرِث تقنيات GLM-4.1V-Thinking المثبتة، ويتوسع ببنية MoE قوية بسعة 106 مليار.",
-  "zenmux/auto.description": "يختار ZenMux auto-routing النموذج الأفضل من حيث القيمة والأداء من بين الخيارات المدعومة بناءً على طلبك."
+  "zenmux/auto.description": "يختار ZenMux auto-routing النموذج الأفضل من حيث القيمة والأداء من بين الخيارات المدعومة بناءً على طلبك.",
+  "minimax/minimax-m2.7.description": "MiniMax M2.7 is a next-generation flagship text model for agent-centric workflows with strong coding, office, and long-context reasoning. Available via WaveSpeed AI.",
+  "minimax/minimax-m2.5.description": "MiniMax M2.5 offers top-tier performance and cost-effectiveness at approximately 60 tokens per second. Available via WaveSpeed AI."
 }

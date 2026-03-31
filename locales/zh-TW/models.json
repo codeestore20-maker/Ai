@@ -1324,5 +1324,7 @@
   "zai/glm-4.5-air.description": "GLM-4.5 與 GLM-4.5-Air 是我們針對代理應用推出的最新旗艦模型，皆採用 MoE 架構。GLM-4.5 總參數 355B，啟用 32B；GLM-4.5-Air 較輕量，總參數 106B，啟用 12B。",
   "zai/glm-4.5.description": "GLM-4.5 系列專為代理設計。旗艦版 GLM-4.5 結合推理、編碼與代理能力，總參數 355B（啟用 32B），提供混合推理系統的雙模式運行。",
   "zai/glm-4.5v.description": "GLM-4.5V 建構於 GLM-4.5-Air 基礎上，延續 GLM-4.1V-Thinking 技術，並以強大的 106B MoE 架構擴展能力。",
-  "zenmux/auto.description": "ZenMux 自動路由會根據您的請求，從支援的選項中選擇性價比最高、效能最佳的模型。"
+  "zenmux/auto.description": "ZenMux 自動路由會根據您的請求，從支援的選項中選擇性價比最高、效能最佳的模型。",
+  "minimax/minimax-m2.7.description": "MiniMax M2.7 is a next-generation flagship text model for agent-centric workflows with strong coding, office, and long-context reasoning. Available via WaveSpeed AI.",
+  "minimax/minimax-m2.5.description": "MiniMax M2.5 offers top-tier performance and cost-effectiveness at approximately 60 tokens per second. Available via WaveSpeed AI."
 }

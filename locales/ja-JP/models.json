@@ -1324,5 +1324,7 @@
   "zai/glm-4.5-air.description": "GLM-4.5およびGLM-4.5-Airは、エージェントアプリケーション向けの最新フラッグシップモデルで、いずれもMoEを採用。GLM-4.5は総パラメータ355B（32Bアクティブ）、GLM-4.5-Airはよりスリムな106B（12Bアクティブ）構成です。",
   "zai/glm-4.5.description": "GLM-4.5シリーズはエージェント向けに設計されており、フラッグシップのGLM-4.5は推論、コーディング、エージェントスキルを統合し、355B総パラメータ（32Bアクティブ）を持つハイブリッド推論システムとしてデュアル動作モードを提供します。",
   "zai/glm-4.5v.description": "GLM-4.5Vは、GLM-4.5-Airをベースに、実績あるGLM-4.1V-Thinking技術を継承し、強力な106BパラメータのMoEアーキテクチャでスケーリングされています。",
-  "zenmux/auto.description": "ZenMuxの自動ルーティングは、リクエストに基づいて最もコストパフォーマンスと性能に優れた対応モデルを選択します。"
+  "zenmux/auto.description": "ZenMuxの自動ルーティングは、リクエストに基づいて最もコストパフォーマンスと性能に優れた対応モデルを選択します。",
+  "minimax/minimax-m2.7.description": "MiniMax M2.7 is a next-generation flagship text model for agent-centric workflows with strong coding, office, and long-context reasoning. Available via WaveSpeed AI.",
+  "minimax/minimax-m2.5.description": "MiniMax M2.5 offers top-tier performance and cost-effectiveness at approximately 60 tokens per second. Available via WaveSpeed AI."
 }

@@ -1324,5 +1324,7 @@
   "zai/glm-4.5-air.description": "GLM-4.5 i GLM-4.5-Air to nasze najnowsze flagowe modele dla aplikacji agentowych, oba oparte na architekturze MoE. GLM-4.5 ma 355B parametrów ogółem i 32B aktywnych na jedno przejście; GLM-4.5-Air jest lżejszy – 106B ogółem i 12B aktywnych.",
   "zai/glm-4.5.description": "Seria GLM-4.5 została zaprojektowana z myślą o agentach. Flagowy model GLM-4.5 łączy rozumowanie, kodowanie i umiejętności agentowe, posiada 355B parametrów ogółem (32B aktywnych) i oferuje dwa tryby działania jako system hybrydowego rozumowania.",
   "zai/glm-4.5v.description": "GLM-4.5V bazuje na GLM-4.5-Air, dziedzicząc sprawdzone techniki GLM-4.1V-Thinking i skalując się dzięki silnej architekturze MoE z 106 miliardami parametrów.",
-  "zenmux/auto.description": "Automatyczne trasowanie ZenMux wybiera najlepiej wyceniony i najbardziej wydajny model spośród obsługiwanych opcji na podstawie Twojego zapytania."
+  "zenmux/auto.description": "Automatyczne trasowanie ZenMux wybiera najlepiej wyceniony i najbardziej wydajny model spośród obsługiwanych opcji na podstawie Twojego zapytania.",
+  "minimax/minimax-m2.7.description": "MiniMax M2.7 is a next-generation flagship text model for agent-centric workflows with strong coding, office, and long-context reasoning. Available via WaveSpeed AI.",
+  "minimax/minimax-m2.5.description": "MiniMax M2.5 offers top-tier performance and cost-effectiveness at approximately 60 tokens per second. Available via WaveSpeed AI."
 }

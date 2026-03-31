@@ -1324,5 +1324,7 @@
   "zai/glm-4.5-air.description": "GLM-4.5 và GLM-4.5-Air là các mô hình hàng đầu mới nhất của chúng tôi dành cho các ứng dụng tác nhân, cả hai đều sử dụng MoE. GLM-4.5 có tổng số 355B và 32B tham số hoạt động mỗi lần chuyển tiếp; GLM-4.5-Air mỏng hơn với tổng số 106B và 12B tham số hoạt động.",
   "zai/glm-4.5.description": "Dòng GLM-4.5 được thiết kế cho các tác nhân. GLM-4.5 hàng đầu kết hợp lý luận, lập trình và kỹ năng tác nhân với tổng số 355B tham số (32B hoạt động) và cung cấp các chế độ hoạt động kép như một hệ thống lý luận lai.",
   "zai/glm-4.5v.description": "GLM-4.5V được xây dựng trên GLM-4.5-Air, kế thừa các kỹ thuật GLM-4.1V-Thinking đã được chứng minh và mở rộng với kiến trúc MoE mạnh mẽ 106B tham số.",
-  "zenmux/auto.description": "ZenMux tự động định tuyến chọn mô hình có giá trị tốt nhất và hiệu suất tốt nhất từ các tùy chọn được hỗ trợ dựa trên yêu cầu của bạn."
+  "zenmux/auto.description": "ZenMux tự động định tuyến chọn mô hình có giá trị tốt nhất và hiệu suất tốt nhất từ các tùy chọn được hỗ trợ dựa trên yêu cầu của bạn.",
+  "minimax/minimax-m2.7.description": "MiniMax M2.7 is a next-generation flagship text model for agent-centric workflows with strong coding, office, and long-context reasoning. Available via WaveSpeed AI.",
+  "minimax/minimax-m2.5.description": "MiniMax M2.5 offers top-tier performance and cost-effectiveness at approximately 60 tokens per second. Available via WaveSpeed AI."
 }

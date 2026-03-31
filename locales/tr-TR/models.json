@@ -1324,5 +1324,7 @@
   "zai/glm-4.5-air.description": "GLM-4.5 ve GLM-4.5-Air, ajan uygulamaları için geliştirilmiş en yeni amiral gemisi modellerimizdir ve her ikisi de MoE mimarisi kullanır. GLM-4.5, toplamda 355B ve her geçişte 32B aktif parametreye sahiptir; GLM-4.5-Air ise daha hafif olup 106B toplam ve 12B aktif parametreye sahiptir.",
   "zai/glm-4.5.description": "GLM-4.5 serisi, ajanlar için tasarlanmıştır. Amiral gemisi GLM-4.5, 355B toplam (32B aktif) parametre ile akıl yürütme, kodlama ve ajan becerilerini birleştirir ve hibrit akıl yürütme sistemi olarak çift çalışma modları sunar.",
   "zai/glm-4.5v.description": "GLM-4.5V, GLM-4.5-Air üzerine inşa edilmiştir; kanıtlanmış GLM-4.1V-Thinking tekniklerini devralır ve güçlü 106B parametreli MoE mimarisiyle ölçeklenir.",
-  "zenmux/auto.description": "ZenMux otomatik yönlendirme, isteğinize göre desteklenen seçenekler arasından en iyi değer ve performansa sahip modeli seçer."
+  "zenmux/auto.description": "ZenMux otomatik yönlendirme, isteğinize göre desteklenen seçenekler arasından en iyi değer ve performansa sahip modeli seçer.",
+  "minimax/minimax-m2.7.description": "MiniMax M2.7 is a next-generation flagship text model for agent-centric workflows with strong coding, office, and long-context reasoning. Available via WaveSpeed AI.",
+  "minimax/minimax-m2.5.description": "MiniMax M2.5 offers top-tier performance and cost-effectiveness at approximately 60 tokens per second. Available via WaveSpeed AI."
 }
