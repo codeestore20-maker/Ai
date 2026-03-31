@@ -1,0 +1,43 @@
+import { j as t } from '../vendor/vendor-motion-Dbb9VQJo.js';
+import { B as r } from './Block-BrEJCAE1.js';
+import './index-CCbaqAw2.js';
+import { r as o } from '../vendor/vendor-emotion-DdM-9MtU.js';
+import { S as i } from './index-BNGbAMR-.js';
+import './providerConfig-qS2Xx-oI.js';
+import '../i18n/i18n-zh-CN-BU7DHEsw.js';
+import '../i18n/i18n-en-US-DgOT8d-N.js';
+import '../vendor/vendor-es-toolkit-DEdCfXFH.js';
+import '../vendor/vendor-icons-BHMUH78i.js';
+import './Tabs-CkNBWT4P.js';
+import './index-CtIoZBrH.js';
+import './EllipsisOutlined-y1XwGSlK.js';
+import './PlusOutlined-D_dh-eD9.js';
+import './Dropdown-CyMyEhFy.js';
+import './Snippet-32bXs0X7.js';
+import './Spotlight-Ci0MiVmf.js';
+import './index-BdwlzBgk.js';
+import './providerConfig-DDLMhlDS.js';
+import './ProviderIcon-Dg9rvCHb.js';
+import './index-CvPxoXfq.js';
+import './useFillId-Dc6zFnxP.js';
+import './index-Chog5AK2.js';
+import './index-Dnykz53F.js';
+import './index-FbvwNFNF.js';
+import './index-C_P8ne77.js';
+import './index-BuK-PXoS.js';
+import './index-DQdi0815.js';
+import './index-B8mGalR4.js';
+import './index-KXgYe6zX.js';
+import './index-BEWAql7N.js';
+import './Trans-C_knUiir.js';
+const H = o.memo(({ id: p }) =>
+  t.jsx(r, {
+    align: 'center',
+    gap: 8,
+    padding: 16,
+    variant: 'outlined',
+    style: { overflow: 'hidden', position: 'relative', width: '100%' },
+    children: t.jsx(i, {}),
+  }),
+);
+export { H as default };
